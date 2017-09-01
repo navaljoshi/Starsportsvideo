@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/dc3adbcdec1a068ddfd31d83e8d2ff79ef442bdf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ee7e76a34ff3bf3d5f48159699807c3989b698e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/e4edec146507b1de7cfb840c183d9c6d78fb0098/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5cffd567134006425d8d2b7d891c699e6bf0ffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/cc9fe2d10ce63d09650767f2bf00cf54b5f802cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49eeddce5b5014b7dd7190a2285ed8f117d49d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48e909d403ee2ea65002c81bd020f6356db335a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/0a5e200759a2bbf66ca1c5044bffd371659218ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_730899ffbdb2b537c024bce6e4103cc72dd3d5e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/2263140dbd3e801ee449e33d49dd81a56260582b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68cf3dfc7bfb14cd2545e1bdc299d2f519128c74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/4fdf390cec0895090ba964e99d57fca9b0aba5f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22d8d2e7191f45e271e641bb4d8aacc9c871a57e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_68635db4d895b6821a0c656c06894a4b9acd8848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8697d373913816a821581f1da0adf4eabd226ce1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/a0677d3085bd982d83dc6cad3d8f5d6d2e8c773d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c60e5e83ed9573cc03d21e4ebb3ec4899125e50f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6a4d315017b4b801d2b573379fde0daf893216f">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c58f67e2b9600fc61cd47ea80b82f42bda54863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/75725ff05b716b6deee4ae3171b1430eae4511c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd8673f54628025066e0e658a29700afaff18e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/21237ca6749bf1970d6073c7593d53bca4d8d505/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a078ec32aa1406d32a5910f59466ad973c8a7910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/.android/build-cache/3608e6a0d50432990edd5770f3888a4793400f3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7ff86bc42573ab22b333b230c2b419884c6d9f9/classes.dex" />
+    </item>
+
+</items>

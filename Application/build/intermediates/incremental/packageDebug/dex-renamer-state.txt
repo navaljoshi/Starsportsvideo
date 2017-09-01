@@ -1,0 +1,7 @@
+#Fri Sep 01 22:00:02 IST 2017
+base.0=/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8697d373913816a821581f1da0adf4eabd226ce1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c58f67e2b9600fc61cd47ea80b82f42bda54863/classes.dex
+base.1=/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c58f67e2b9600fc61cd47ea80b82f42bda54863
+file.0=/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8697d373913816a821581f1da0adf4eabd226ce1/classes.dex

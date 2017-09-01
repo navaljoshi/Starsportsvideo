@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/layout-v21/notification_action.xml"
+    }
+]

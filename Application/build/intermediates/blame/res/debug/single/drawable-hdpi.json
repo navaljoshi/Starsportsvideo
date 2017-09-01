@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/naval/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/naval/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/star.png",
+        "source": "/Users/naval/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-hdpi/star.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/naval/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/starlogo.png",
+        "source": "/Users/naval/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-hdpi/starlogo.png"
+    }
+]
