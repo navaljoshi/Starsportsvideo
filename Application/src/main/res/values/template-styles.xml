@@ -22,9 +22,13 @@
 
     <style name="Theme.Sample" parent="Theme.Base" />
 
-    <style name="AppTheme" parent="Theme.Sample" />
     <!-- Widget styling -->
-
+    <style name="MaterialTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
     <style name="Widget" />
 
     <style name="Widget.SampleMessage">

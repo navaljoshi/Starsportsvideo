@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:17:1-43:12
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:17:1-63:12
 	package
 		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:18:5-47
 	android:versionName
@@ -25,55 +25,115 @@ uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:26:5-80
 	android:name
 		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:27:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:30:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:31:5-75
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:31:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:32:22-72
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:33:5-73
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:33:22-70
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:34:5-72
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:34:22-69
 application
-ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:28:5-41:19
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:36:5-61:19
 MERGED from [com.android.support:support-v13:25.3.1] /Users/naval/.android/build-cache/e4edec146507b1de7cfb840c183d9c6d78fb0098/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:cardview-v7:25.3.1] /Users/naval/.android/build-cache/3608e6a0d50432990edd5770f3888a4793400f3c/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/naval/.android/build-cache/2263140dbd3e801ee449e33d49dd81a56260582b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/naval/.android/build-cache/a0677d3085bd982d83dc6cad3d8f5d6d2e8c773d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] /Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/AndroidManifest.xml:28:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /Users/naval/.android/build-cache/75725ff05b716b6deee4ae3171b1430eae4511c4/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/naval/.android/build-cache/21237ca6749bf1970d6073c7593d53bca4d8d505/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/naval/.android/build-cache/4fdf390cec0895090ba964e99d57fca9b0aba5f4/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/naval/.android/build-cache/dc3adbcdec1a068ddfd31d83e8d2ff79ef442bdf/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/naval/.android/build-cache/0a5e200759a2bbf66ca1c5044bffd371659218ac/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/naval/.android/build-cache/2263140dbd3e801ee449e33d49dd81a56260582b/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/naval/.android/build-cache/a0677d3085bd982d83dc6cad3d8f5d6d2e8c773d/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /Users/naval/.android/build-cache/cc9fe2d10ce63d09650767f2bf00cf54b5f802cc/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:29:9-41
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:37:9-41
 	android:allowBackup
-		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:28:18-44
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:36:18-44
 	android:icon
-		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:30:9-42
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:38:9-42
 	android:theme
-		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:31:9-45
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:39:9-45
 activity#com.example.android.camera2video.CameraActivity
-ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:33:9-39:20
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:41:9-47:20
 	android:label
-		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:34:19-51
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:42:19-51
 	android:name
-		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:33:19-49
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:41:19-49
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:35:13-38:29
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:43:13-46:29
 action#android.intent.action.MAIN
-ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:36:17-69
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:44:17-69
 	android:name
-		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:36:25-66
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:44:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:37:17-77
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:45:17-77
 	android:name
-		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:37:27-74
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:45:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:48:9-107
+	android:value
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:48:66-105
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:48:20-65
+activity#com.example.android.camera2video.LoginActivity
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:49:9-50:60
+	android:theme
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:50:13-58
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:49:19-48
+activity#com.facebook.FacebookActivity
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:52:9-56:48
+	android:label
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:56:13-45
+	android:configChanges
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:53:13-113
+	android:theme
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:55:13-72
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:52:19-63
+provider#com.facebook.FacebookContentProvider
+ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:58:9-60:39
+	android:authorities
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:58:19-96
+	android:exported
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml:59:13-64
 uses-sdk
 INJECTED from /Users/naval/Desktop/android-Camera2Video-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:25.3.1] /Users/naval/.android/build-cache/e4edec146507b1de7cfb840c183d9c6d78fb0098/output/AndroidManifest.xml:21:5-23:55
 MERGED from [com.android.support:cardview-v7:25.3.1] /Users/naval/.android/build-cache/3608e6a0d50432990edd5770f3888a4793400f3c/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/naval/.android/build-cache/2263140dbd3e801ee449e33d49dd81a56260582b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/naval/.android/build-cache/a0677d3085bd982d83dc6cad3d8f5d6d2e8c773d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] /Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:support-v4:25.3.1] /Users/naval/.android/build-cache/75725ff05b716b6deee4ae3171b1430eae4511c4/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/naval/.android/build-cache/21237ca6749bf1970d6073c7593d53bca4d8d505/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/naval/.android/build-cache/4fdf390cec0895090ba964e99d57fca9b0aba5f4/output/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/naval/.android/build-cache/dc3adbcdec1a068ddfd31d83e8d2ff79ef442bdf/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/naval/.android/build-cache/0a5e200759a2bbf66ca1c5044bffd371659218ac/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/naval/.android/build-cache/2263140dbd3e801ee449e33d49dd81a56260582b/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/naval/.android/build-cache/a0677d3085bd982d83dc6cad3d8f5d6d2e8c773d/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:25.3.1] /Users/naval/.android/build-cache/cc9fe2d10ce63d09650767f2bf00cf54b5f802cc/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v13:25.3.1] /Users/naval/.android/build-cache/e4edec146507b1de7cfb840c183d9c6d78fb0098/output/AndroidManifest.xml:23:9-52
@@ -87,13 +147,13 @@ meta-data#android.support.VERSION
 ADDED from [com.android.support:support-v13:25.3.1] /Users/naval/.android/build-cache/e4edec146507b1de7cfb840c183d9c6d78fb0098/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:cardview-v7:25.3.1] /Users/naval/.android/build-cache/3608e6a0d50432990edd5770f3888a4793400f3c/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/naval/.android/build-cache/2263140dbd3e801ee449e33d49dd81a56260582b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/naval/.android/build-cache/a0677d3085bd982d83dc6cad3d8f5d6d2e8c773d/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.1] /Users/naval/.android/build-cache/75725ff05b716b6deee4ae3171b1430eae4511c4/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/naval/.android/build-cache/21237ca6749bf1970d6073c7593d53bca4d8d505/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/naval/.android/build-cache/4fdf390cec0895090ba964e99d57fca9b0aba5f4/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/naval/.android/build-cache/dc3adbcdec1a068ddfd31d83e8d2ff79ef442bdf/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/naval/.android/build-cache/0a5e200759a2bbf66ca1c5044bffd371659218ac/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/naval/.android/build-cache/2263140dbd3e801ee449e33d49dd81a56260582b/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/naval/.android/build-cache/a0677d3085bd982d83dc6cad3d8f5d6d2e8c773d/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-compat:25.3.1] /Users/naval/.android/build-cache/cc9fe2d10ce63d09650767f2bf00cf54b5f802cc/output/AndroidManifest.xml:25:5-27:34
 	android:value
 		ADDED from [com.android.support:support-v13:25.3.1] /Users/naval/.android/build-cache/e4edec146507b1de7cfb840c183d9c6d78fb0098/output/AndroidManifest.xml:27:9-31

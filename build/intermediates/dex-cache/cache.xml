@@ -39,12 +39,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_197e9128a9a17517edeaca21e1e853cb2013f259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/naval/.android/build-cache/0a5e200759a2bbf66ca1c5044bffd371659218ac/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
         <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_730899ffbdb2b537c024bce6e4103cc72dd3d5e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/naval/AndroidStudioProjects/MyApplication/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.0_16bfebe16f7e0a474263c151ad73d6e38628c645/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -97,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="d6a4d315017b4b801d2b573379fde0daf893216f">
+        sha1="d8f75fb3041b0c10c0738561ccaf9b9db6426ba6">
         <dex dex="/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c58f67e2b9600fc61cd47ea80b82f42bda54863/classes.dex" />
     </item>
     <item

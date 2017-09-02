@@ -20,6 +20,10 @@ import android.app.Activity;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
+import android.graphics.PorterDuff;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
@@ -29,6 +33,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 import android.widget.VideoView;
 
 import java.io.File;
@@ -194,7 +199,44 @@ public class CameraActivity extends Activity {
                 Log.d("LVMH", "Lets share on Facebook ");
 
                 //closeButton.setVisibility(GONE);
-                vid.stopPlayback();
+
+                // TODO Auto-generated method stub
+                Toast.makeText(getApplicationContext(), "Facebook Button Clicked , Wait for FB login Page ",
+                        Toast.LENGTH_LONG).show();
+
+                Button view = (Button) share;
+                view.getBackground().setColorFilter(0x77000000, PorterDuff.Mode.SRC_ATOP);
+                share.invalidate();
+
+                new InternetUtil().getSpeed(new AsyncResponse() {
+                    @Override
+                    public double getSpeed(long speed) {
+                        long sp = speed;
+                        Log.d("lvmh", "FB speed:" + String.valueOf(sp));
+
+                        if (haveNetworkConnection()) {
+                            if (sp > 100) {
+
+                                callFB(); // function to FB
+                            } else {
+                                //No internet connection here
+                                Toast.makeText(getApplicationContext(), "No Internet Connection , Please Try Later or try offline Mail",
+                                        Toast.LENGTH_LONG).show();
+
+                            }
+                        } else {
+                            //No internet connection here
+                            Toast.makeText(getApplicationContext(), "No Internet Connection , Please Try Later or try offline Mail",
+                                    Toast.LENGTH_LONG).show();
+
+                            //homeScreen();
+
+                        }
+                        share.getBackground().clearColorFilter();
+                        return 0;
+
+                    }
+                });
                 dialog1.dismiss();
                 // sharingScreen();
 
@@ -205,6 +247,41 @@ public class CameraActivity extends Activity {
         vid.setVideoPath(Camera2VideoFragment.imagePath);
         //videoflag= false;
         dialog1.show();
+    }
+
+    public void callFB() {
+        final Dialog dialog1 = new Dialog(this);
+
+        Log.d("LVMH", " opening dialog FB");
+        //call FB activity
+
+        Intent i = new Intent(CameraActivity.this, LoginActivity.class);
+        startActivityForResult(i, 1);
+        //startActivity(i);
+
+    }
+
+    public boolean haveNetworkConnection() {
+        boolean haveConnectedWifi = false;
+        boolean haveConnectedMobile = false;
+
+
+        ConnectivityManager cm = (ConnectivityManager) getSystemService(getApplicationContext().CONNECTIVITY_SERVICE);
+        NetworkInfo[] netInfo = cm.getAllNetworkInfo();
+        for (NetworkInfo ni : netInfo) {
+            if (ni.getTypeName().equalsIgnoreCase("WIFI"))
+                if (ni.isConnected()) {
+                    haveConnectedWifi = true;
+                    Log.d("LVMH", "Mobile Internet present");
+                }
+            if (ni.getTypeName().equalsIgnoreCase("MOBILE"))
+                if (ni.isConnected()) {
+                    haveConnectedMobile = true;
+                    Log.d("LVMH", "Mobile Internet present");
+
+                }
+        }
+        return haveConnectedWifi || haveConnectedMobile;
     }
 
 }

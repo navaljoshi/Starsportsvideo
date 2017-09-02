@@ -1,7 +1,39 @@
 [
     {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_button_send_icon.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_button_send_icon.png"
+    },
+    {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
         "source": "/Users/naval/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_blue_xout.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_black_topnub.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/messenger_bubble_large_blue.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/messenger_bubble_small_white.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_black_background.9.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/messenger_button_send_round_shadow.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/messenger_button_send_round_shadow.png"
     },
     {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
@@ -12,11 +44,47 @@
         "source": "/Users/naval/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-hdpi/star.png"
     },
     {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/messenger_bubble_small_blue.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/messenger_bubble_large_white.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/messenger_bubble_large_white.png"
+    },
+    {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
         "source": "/Users/naval/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-hdpi/ic_action_info.png"
     },
     {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_button_icon.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_button_icon.png"
+    },
+    {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/starlogo.png",
         "source": "/Users/naval/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-hdpi/starlogo.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_close.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_blue_background.9.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_black_xout.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_blue_topnub.png",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png"
     }
 ]

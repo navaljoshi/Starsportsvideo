@@ -368,8 +368,27 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2012,
+                    "endColumn": 60,
+                    "endOffset": 2068
+                },
+                "from": {
+                    "file": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/values-in/values-in.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 60,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2073,
                     "endColumn": 83,
-                    "endOffset": 2091
+                    "endOffset": 2152
                 },
                 "from": {
                     "file": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/values-in/values-in.xml",
@@ -384,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2096,
+                    "startOffset": 2157,
                     "endColumn": 100,
-                    "endOffset": 2192
+                    "endOffset": 2253
                 },
                 "from": {
                     "file": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/values-in/values-in.xml",

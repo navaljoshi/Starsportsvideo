@@ -36,6 +36,14 @@
         "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/drawable/abc_textfield_search_material.xml"
     },
@@ -46,6 +54,10 @@
     {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable/messenger_button_white_bg_selector.xml"
     },
     {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
@@ -76,6 +88,14 @@
         "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
         "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/drawable/abc_ic_clear_material.xml"
     },
@@ -92,12 +112,24 @@
         "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/drawable/abc_vector_test.xml"
     },
     {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Users/naval/.android/build-cache/dc0e4b76259981f1ddf345c938486cb5447eb0b8/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/naval/.android/build-cache/1247fb753185c073b7a5ce3033cf129588f7f6ce/output/res/drawable/com_facebook_button_like_background.xml"
     },
     {
         "merged": "/Users/naval/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
